@@ -58,6 +58,9 @@
         <mxCell id="iJAc0vFVMv0zGBcjjszw-7" value="запуск ./Repo/1_Docs_/Celi.html" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="lYoupmjdc9CDtrk6pOzM-13">
           <mxGeometry x="370" y="30" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iJAc0vFVMv0zGBcjjszw-11" value="Страница с меню всех .md проекта" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="lYoupmjdc9CDtrk6pOzM-13">
+          <mxGeometry x="530" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="lYoupmjdc9CDtrk6pOzM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.568;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" parent="lYoupmjdc9CDtrk6pOzM-1" source="lYoupmjdc9CDtrk6pOzM-7" target="lYoupmjdc9CDtrk6pOzM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
