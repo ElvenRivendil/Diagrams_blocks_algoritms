@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lYoupmjdc9CDtrk6pOzM-1" value="" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" parent="1" vertex="1">
-          <mxGeometry x="120" y="160" width="690" height="620" as="geometry" />
+          <mxGeometry x="120" y="160" width="690" height="750" as="geometry" />
         </mxCell>
         <mxCell id="lYoupmjdc9CDtrk6pOzM-2" value="" style="swimlane;html=1;startSize=20;horizontal=0;" parent="lYoupmjdc9CDtrk6pOzM-1" vertex="1">
           <mxGeometry x="20" width="670" height="120" as="geometry" />
@@ -80,6 +80,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XrCba2wyK-qPHOCUl-fH-2" value="Создание интернет-магазина под WP&lt;br&gt;&quot;Око техники&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XrCba2wyK-qPHOCUl-fH-1">
+          <mxGeometry x="60" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrCba2wyK-qPHOCUl-fH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lYoupmjdc9CDtrk6pOzM-1" source="XrCba2wyK-qPHOCUl-fH-2" target="XrCba2wyK-qPHOCUl-fH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XrCba2wyK-qPHOCUl-fH-3" value="" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="lYoupmjdc9CDtrk6pOzM-1">
+          <mxGeometry x="20" y="620" width="670" height="130" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XrCba2wyK-qPHOCUl-fH-4" value="Подключение к Cursor AI CodeWP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XrCba2wyK-qPHOCUl-fH-3">
           <mxGeometry x="60" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iJAc0vFVMv0zGBcjjszw-3" value="Регистарация на хостинге с BD Mariadb alwaysdata.com" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
