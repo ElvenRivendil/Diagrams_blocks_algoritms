@@ -79,8 +79,14 @@
             <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XrCba2wyK-qPHOCUl-fH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="XrCba2wyK-qPHOCUl-fH-1" source="XrCba2wyK-qPHOCUl-fH-2" target="XrCba2wyK-qPHOCUl-fH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XrCba2wyK-qPHOCUl-fH-2" value="Создание интернет-магазина под WP&lt;br&gt;&quot;Око техники&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="XrCba2wyK-qPHOCUl-fH-1">
           <mxGeometry x="60" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XrCba2wyK-qPHOCUl-fH-6" value="Установлен WP под WSL" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="XrCba2wyK-qPHOCUl-fH-1">
+          <mxGeometry x="230" y="35" width="180" height="65" as="geometry" />
         </mxCell>
         <mxCell id="XrCba2wyK-qPHOCUl-fH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lYoupmjdc9CDtrk6pOzM-1" source="XrCba2wyK-qPHOCUl-fH-2" target="XrCba2wyK-qPHOCUl-fH-4">
           <mxGeometry relative="1" as="geometry" />
