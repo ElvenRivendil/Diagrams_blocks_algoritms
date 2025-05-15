@@ -152,7 +152,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZhxzeuRZ4r9QFSET6puF-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ZhxzeuRZ4r9QFSET6puF-1" source="ZhxzeuRZ4r9QFSET6puF-4" target="ZhxzeuRZ4r9QFSET6puF-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="510" />
+              <mxPoint x="60" y="510" />
+              <mxPoint x="60" y="845" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="w4PvkZMudOKL_4UMtfQu-1" value="" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="ZhxzeuRZ4r9QFSET6puF-1">
           <mxGeometry x="20" y="900" width="780" height="130" as="geometry">
