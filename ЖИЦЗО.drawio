@@ -249,29 +249,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-110" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="-80" y="1565" width="420" height="260" as="geometry">
+          <mxGeometry x="65" y="1420" width="130" height="260" as="geometry">
             <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-104" value="Запуск emkan.localhost:8082" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="2WW16IoyJsLzcIFrLzGQ-110" vertex="1">
-          <mxGeometry x="130" y="-35" width="150" height="60" as="geometry" />
+          <mxGeometry x="-15" y="110" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-98" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="2WW16IoyJsLzcIFrLzGQ-110" vertex="1">
-          <mxGeometry x="230" y="-35" width="30" height="25" as="geometry" />
+          <mxGeometry x="85" y="110" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Rw_D1_SthnWfcufsFQDD-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="2WW16IoyJsLzcIFrLzGQ-110">
+          <mxGeometry x="-45" y="110" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-118" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="137.1" y="1628.85" width="563.7" height="271.62" as="geometry">
+          <mxGeometry x="167.5" y="1598.45" width="502.9" height="271.62" as="geometry">
             <mxRectangle x="188" y="1797" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-105" value="Запуск forum.emkan.localhost:8082" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="2WW16IoyJsLzcIFrLzGQ-118" vertex="1">
-          <mxGeometry x="191.75" y="-129" width="180" height="75" as="geometry" />
+          <mxGeometry x="161.75" y="-99" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-99" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="2WW16IoyJsLzcIFrLzGQ-118" vertex="1">
-          <mxGeometry x="268.5" y="-154" width="30" height="25" as="geometry" />
+          <mxGeometry x="238.5" y="-124" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Rw_D1_SthnWfcufsFQDD-5" value="" style="group" vertex="1" connectable="0" parent="2WW16IoyJsLzcIFrLzGQ-118">
-          <mxGeometry x="152.8" y="-32.95" width="246.5" height="224.5" as="geometry" />
+          <mxGeometry x="122.80000000000001" y="-2.950000000000003" width="246.5" height="224.5" as="geometry" />
         </mxCell>
         <mxCell id="Rw_D1_SthnWfcufsFQDD-4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="Rw_D1_SthnWfcufsFQDD-5">
           <mxGeometry width="246.5" height="224.5" as="geometry" />
@@ -292,24 +295,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rw_D1_SthnWfcufsFQDD-9" value="запуск forum.emkan.free.nf" style="shape=tape;whiteSpace=wrap;html=1;" vertex="1" parent="2WW16IoyJsLzcIFrLzGQ-118">
-          <mxGeometry x="216.05" y="241.15" width="120" height="100" as="geometry" />
+          <mxGeometry x="186.05" y="271.15" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Rw_D1_SthnWfcufsFQDD-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="2WW16IoyJsLzcIFrLzGQ-118">
-          <mxGeometry x="306.05" y="254.4" width="30" height="25" as="geometry" />
+          <mxGeometry x="276.05" y="284.4" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="Rw_D1_SthnWfcufsFQDD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="2WW16IoyJsLzcIFrLzGQ-118" source="Rw_D1_SthnWfcufsFQDD-4" target="Rw_D1_SthnWfcufsFQDD-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Rw_D1_SthnWfcufsFQDD-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="2WW16IoyJsLzcIFrLzGQ-118">
+          <mxGeometry x="122.80000000000001" y="-78.45000000000005" width="30" height="25" as="geometry" />
+        </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-134" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="475" y="1565" width="430" height="260" as="geometry">
+          <mxGeometry x="617.5" y="1422.5" width="145" height="260" as="geometry">
             <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-106" value="Запуск Oko-service.localhost:8082" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="2WW16IoyJsLzcIFrLzGQ-134" vertex="1">
-          <mxGeometry x="140" y="-25" width="170" height="60" as="geometry" />
+          <mxGeometry x="-2" y="118" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="2WW16IoyJsLzcIFrLzGQ-134" vertex="1">
-          <mxGeometry x="270" y="-25" width="30" height="25" as="geometry" />
+          <mxGeometry x="128" y="118" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Rw_D1_SthnWfcufsFQDD-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="2WW16IoyJsLzcIFrLzGQ-134">
+          <mxGeometry x="-47" y="93" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2WW16IoyJsLzcIFrLzGQ-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2WW16IoyJsLzcIFrLzGQ-17" target="2WW16IoyJsLzcIFrLzGQ-104" edge="1">
           <mxGeometry relative="1" as="geometry" />
