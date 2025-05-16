@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.5">
   <diagram name="Страница — 1" id="0z_HeKPPRqJAuMn_t7p7">
-    <mxGraphModel dx="788" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1576" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,6 +273,21 @@
               <mxPoint x="680" y="1050" />
               <mxPoint x="400" y="1050" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2WW16IoyJsLzcIFrLzGQ-110" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1435" width="160" height="260" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2WW16IoyJsLzcIFrLzGQ-118" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="334" y="1435" width="160" height="260" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2WW16IoyJsLzcIFrLzGQ-134" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1435" width="160" height="260" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
