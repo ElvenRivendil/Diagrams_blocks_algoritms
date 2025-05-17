@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Страница — 1" id="0z_HeKPPRqJAuMn_t7p7">
-    <mxGraphModel dx="1615" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,6 +311,38 @@
         </mxCell>
         <mxCell id="JTGqe70kMlTyle-jdbBk-76" value="Регистрация на сайте Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-71">
           <mxGeometry x="150" y="50" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-77" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-48">
+          <mxGeometry x="200" y="110" width="400" height="225.27" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTGqe70kMlTyle-jdbBk-77" source="JTGqe70kMlTyle-jdbBk-78" target="JTGqe70kMlTyle-jdbBk-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-78" value="Создание локальной БД в контейнере Docker WSL2" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="104" y="-37.36" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="260" y="-46" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTGqe70kMlTyle-jdbBk-77" source="JTGqe70kMlTyle-jdbBk-81" target="JTGqe70kMlTyle-jdbBk-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-81" value="Подключение DBeaver &lt;br&gt;из Windows" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="100" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-82" value="Установка SQLTools в Cursor и подключение к localhost:3306" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="100" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-83" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="266" y="30" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JTGqe70kMlTyle-jdbBk-77">
+          <mxGeometry x="270" y="110" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTGqe70kMlTyle-jdbBk-48" source="JTGqe70kMlTyle-jdbBk-72" target="JTGqe70kMlTyle-jdbBk-78">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JTGqe70kMlTyle-jdbBk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZhxzeuRZ4r9QFSET6puF-1" target="JTGqe70kMlTyle-jdbBk-72">
           <mxGeometry relative="1" as="geometry">
