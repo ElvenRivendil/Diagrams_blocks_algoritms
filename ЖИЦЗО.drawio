@@ -344,6 +344,20 @@
         <mxCell id="JTGqe70kMlTyle-jdbBk-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="JTGqe70kMlTyle-jdbBk-48" source="JTGqe70kMlTyle-jdbBk-72" target="JTGqe70kMlTyle-jdbBk-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-90" value="" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-48">
+          <mxGeometry x="440" y="110" width="400" height="225.27" as="geometry">
+            <mxRectangle x="20" y="240" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-91" value="Регистрация бесплатного VPS на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-90">
+          <mxGeometry x="104" y="-37.36" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-92" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JTGqe70kMlTyle-jdbBk-90">
+          <mxGeometry x="280" y="-62.36" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="JTGqe70kMlTyle-jdbBk-93" value="Регистрация на сайте Mysql" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="JTGqe70kMlTyle-jdbBk-90">
+          <mxGeometry x="150" y="50" width="90" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="JTGqe70kMlTyle-jdbBk-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZhxzeuRZ4r9QFSET6puF-1" target="JTGqe70kMlTyle-jdbBk-72">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="90" as="sourcePoint" />
