@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="657" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,30 +91,45 @@
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-38" value="Создание скрипта для деплоя на Oracle Cloud" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
           <mxGeometry x="104.995" y="-37.36500000000001" width="175" height="65" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-39" value="&lt;div&gt;Установка локального сервера fn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="174.995" y="72.63499999999999" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="104.995" y="232.635" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="160" y="52.63" width="140.01" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="190" y="142.63" width="120" height="72.37" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="245" y="-67.37" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="215" y="52.629999999999995" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="195" y="225.26999999999998" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="205" y="132.63" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="720.005" y="207.365" width="400" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
-          <mxGeometry x="119.99" y="-42.37" width="140.01" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
-          <mxGeometry x="169.99" y="47.63" width="120" height="72.37" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-37" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
