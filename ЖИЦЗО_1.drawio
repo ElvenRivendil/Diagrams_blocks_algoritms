@@ -1,9 +1,64 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel>
+    <mxGraphModel dx="657" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="5" y="195" width="400" height="250" as="geometry">
+            <mxRectangle x="145" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+          <mxGeometry x="109" y="-32.36" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+          <mxGeometry x="265" y="-45" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-5" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+          <mxGeometry x="115" y="64.99000000000001" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="249.995" y="207.365" width="400" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-7" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="104" y="-37.36" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="260" y="-50" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-9" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="110" y="59.989999999999995" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-10" value="Создание VPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-13" value="Цели" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-130" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-14" value="&lt;div&gt;Проект Vestings&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-15" value="WordPress emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-16" value="Wordpress forum.emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-17" value="Wordpress Oko-service." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-14" target="NwDME-IFeq2rPD6jmmSG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
