@@ -29,9 +29,6 @@
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
-          <mxGeometry x="280.01" y="-62.37" width="30" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-24" value="Создание канала Slack" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
           <mxGeometry x="180.005" y="42.63499999999999" width="120" height="52.5" as="geometry" />
         </mxCell>
@@ -40,6 +37,20 @@
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="240" y="-37.37" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="260.01" y="70.13" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-27" value="установка звукового сигнала при получении сообщения" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="170.015" y="122.63499999999999" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-24" target="NwDME-IFeq2rPD6jmmSG-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.005" y="132.635" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-1">
           <mxGeometry relative="1" as="geometry" />
@@ -74,6 +85,37 @@
               <mxPoint x="340" y="203" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-29" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="489.995" y="207.365" width="400" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-38" value="Создание скрипта для деплоя на Oracle Cloud" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="104.995" y="-37.36500000000001" width="175" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-39" value="&lt;div&gt;Установка локального сервера fn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="174.995" y="72.63499999999999" width="120" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="720.005" y="207.365" width="400" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
+          <mxGeometry x="119.99" y="-42.37" width="140.01" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
+          <mxGeometry x="169.99" y="47.63" width="120" height="72.37" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-37" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
