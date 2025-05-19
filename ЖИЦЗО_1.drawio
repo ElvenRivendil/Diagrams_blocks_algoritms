@@ -4,79 +4,79 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;flipV=0;flipH=0;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;flipV=0;flipH=0;" parent="1" vertex="1">
           <mxGeometry x="-17.5" y="182.5" width="400" height="275" as="geometry">
             <mxRectangle x="-24.999999999999986" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="87" y="-32.500000000000014" width="192" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="238" y="-42.5" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-5" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-5" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="90.5" y="227.5" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="227.5" y="47.5" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-1" source="NwDME-IFeq2rPD6jmmSG-1" target="NwDME-IFeq2rPD6jmmSG-2">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-1" source="NwDME-IFeq2rPD6jmmSG-1" target="NwDME-IFeq2rPD6jmmSG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="249.995" y="207.365" width="400" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-24" value="Создание канала Slack" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-24" value="Создание канала Slack" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
           <mxGeometry x="180.005" y="42.63499999999999" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-20" value="Создание скрипта по регистрации VPS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-20" value="Создание скрипта по регистрации VPS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
           <mxGeometry x="110.005" y="-37.36500000000001" width="175" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-24">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
           <mxGeometry x="240" y="-37.37" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
           <mxGeometry x="260.01" y="70.13" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-27" value="установка звукового сигнала при получении сообщения" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-27" value="установка звукового сигнала при получении сообщения" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
           <mxGeometry x="170.015" y="122.63499999999999" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-24" target="NwDME-IFeq2rPD6jmmSG-27">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-24" target="NwDME-IFeq2rPD6jmmSG-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240.005" y="132.635" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-10" value="Создание VPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-10" value="Создание VPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="-40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-13" value="Цели" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-13" value="Цели" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-130" width="180" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-14" value="&lt;div&gt;Проект Vestings&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;glass=0;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-14" value="&lt;div&gt;Проект Vestings&lt;/div&gt;" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="NwDME-IFeq2rPD6jmmSG-13" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-15" value="WordPress emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-15" value="WordPress emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-13" vertex="1">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-16" value="Wordpress forum.emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-16" value="Wordpress forum.emkan." style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-13" vertex="1">
           <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-17" value="Wordpress Oko-service." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-13">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-17" value="Wordpress Oko-service." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-13" vertex="1">
           <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-14" target="NwDME-IFeq2rPD6jmmSG-10">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-14" target="NwDME-IFeq2rPD6jmmSG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-2" target="NwDME-IFeq2rPD6jmmSG-20">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-2" target="NwDME-IFeq2rPD6jmmSG-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="210" as="targetPoint" />
             <Array as="points">
@@ -86,50 +86,50 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-29" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-29" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="489.995" y="207.365" width="400" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-39">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-38" value="Создание скрипта для деплоя на Oracle Cloud" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-38" value="Создание скрипта для деплоя на Oracle Cloud" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="104.995" y="-37.36500000000001" width="175" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-39" value="&lt;div&gt;Установка локального сервера fn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-39" value="&lt;div&gt;Установка локального сервера fn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="104.995" y="232.635" width="120" height="52.5" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="160" y="52.63" width="140.01" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="190" y="142.63" width="120" height="72.37" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="245" y="-67.37" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="215" y="52.629999999999995" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="195" y="225.26999999999998" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="205" y="132.63" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="720.005" y="207.365" width="400" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
