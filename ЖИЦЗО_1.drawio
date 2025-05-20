@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="543" dy="1572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="2142" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-29" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="285" width="680.01" height="545" as="geometry">
+          <mxGeometry x="351.25" y="346.25" width="810.01" height="346.5" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -95,85 +95,85 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-38" value="Создание скрипта для деплоя на Oracle Cloud" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="242.505" y="-114.995" width="175" height="65" as="geometry" />
+          <mxGeometry x="287.485" y="-166.995" width="175" height="65" as="geometry" />
         </mxCell>
         <mxCell id="0CBNLFLHZw1cjYQpGo53-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-39" target="0CBNLFLHZw1cjYQpGo53-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-39" value="&lt;div&gt;Установка локального сервера fn&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="242.505" y="155.005" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="287.485" y="103.005" width="120" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-42" value="Установка локального сервера ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="297.51" y="-25.000000000000007" width="140.01" height="80" as="geometry" />
+          <mxGeometry x="342.49" y="-77" width="140.01" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.88;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-38" target="NwDME-IFeq2rPD6jmmSG-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-45" value="&lt;div&gt;Установка локального сервера ssh для Windows к WSL2&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="327.51" y="65" width="120" height="72.37" as="geometry" />
+          <mxGeometry x="372.49" y="13" width="120" height="72.37" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.814;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="NwDME-IFeq2rPD6jmmSG-42" target="NwDME-IFeq2rPD6jmmSG-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="382.51" y="-145" width="30" height="25" as="geometry" />
+          <mxGeometry x="427.49" y="-197" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="352.51" y="-25.000000000000007" width="30" height="25" as="geometry" />
+          <mxGeometry x="397.49" y="-77" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-51" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="332.51" y="147.64" width="30" height="25" as="geometry" />
+          <mxGeometry x="377.49" y="95.63999999999999" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="342.51" y="54.99999999999999" width="30" height="25" as="geometry" />
+          <mxGeometry x="387.49" y="3" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YflyUX5L_feNzryWRgsf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-29" source="0CBNLFLHZw1cjYQpGo53-3" target="YflyUX5L_feNzryWRgsf-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0CBNLFLHZw1cjYQpGo53-3" value="Отладка скрипта для деплоя на Oracle Cloud Function на локальном fnserver" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="232.51" y="227.64000000000001" width="195" height="84.73" as="geometry" />
+          <mxGeometry x="277.49" y="175.64" width="195" height="84.73" as="geometry" />
         </mxCell>
         <mxCell id="0CBNLFLHZw1cjYQpGo53-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="397.51" y="195" width="30" height="25" as="geometry" />
+          <mxGeometry x="442.49" y="143" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="YflyUX5L_feNzryWRgsf-2" target="MG9vdnyTiC7GRD6fxwUX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YflyUX5L_feNzryWRgsf-2" value="Создание тестового скрипта на Python" style="ellipse;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="222.51" y="355" width="120" height="80" as="geometry" />
+          <mxGeometry x="267.49" y="303" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YflyUX5L_feNzryWRgsf-1" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="530" y="415" width="30" height="40" as="geometry" />
+          <mxGeometry x="574.98" y="363" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="287.51" y="345" width="30" height="25" as="geometry" />
+          <mxGeometry x="332.49" y="293" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="MG9vdnyTiC7GRD6fxwUX-2" target="YflyUX5L_feNzryWRgsf-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-2" value="изучение vim" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="372.51" y="355" width="120" height="80" as="geometry" />
+          <mxGeometry x="417.49" y="303" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="YflyUX5L_feNzryWRgsf-2" target="MG9vdnyTiC7GRD6fxwUX-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="412.51" y="355" width="30" height="25" as="geometry" />
+          <mxGeometry x="457.49" y="303" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="MG9vdnyTiC7GRD6fxwUX-6" target="MG9vdnyTiC7GRD6fxwUX-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-6" value="проверка работы localhost:8091" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipV=0;flipH=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="210.01999999999998" y="485" width="142.49" height="80" as="geometry" />
+          <mxGeometry x="255" y="433" width="142.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-8" value="Регистрация на Docker Hub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="397.51" y="485" width="120" height="60" as="geometry" />
+          <mxGeometry x="442.49" y="433" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="342.51" y="455" width="30" height="40" as="geometry" />
+          <mxGeometry x="387.49" y="403" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
-          <mxGeometry x="480" y="475" width="30" height="25" as="geometry" />
+          <mxGeometry x="524.98" y="423" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="860.005" y="199.995" width="400" height="225.27" as="geometry">
