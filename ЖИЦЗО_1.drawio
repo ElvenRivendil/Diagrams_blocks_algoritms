@@ -143,7 +143,7 @@
           <mxGeometry x="222.51" y="355" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YflyUX5L_feNzryWRgsf-1" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="437.52" y="312.37" width="30" height="40" as="geometry" />
+          <mxGeometry x="492.51" y="445" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
           <mxGeometry x="287.51" y="345" width="30" height="25" as="geometry" />
@@ -160,11 +160,17 @@
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
           <mxGeometry x="412.51" y="355" width="30" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="MG9vdnyTiC7GRD6fxwUX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-29" source="MG9vdnyTiC7GRD6fxwUX-6" target="MG9vdnyTiC7GRD6fxwUX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-6" value="проверка работы localhost:8091" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipV=0;flipH=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
           <mxGeometry x="210.01999999999998" y="485" width="142.49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-8" value="Регистрация на Docker Hub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
           <mxGeometry x="397.51" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MG9vdnyTiC7GRD6fxwUX-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-29">
+          <mxGeometry x="342.51" y="455" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-37" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="860.005" y="199.995" width="400" height="225.27" as="geometry">
