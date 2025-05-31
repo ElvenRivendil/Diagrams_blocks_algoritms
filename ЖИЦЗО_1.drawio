@@ -1,34 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1754" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3979" dy="3505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;flipV=0;flipH=0;" parent="1" vertex="1">
-          <mxGeometry x="-231.25" y="396.25" width="827.5" height="463.75" as="geometry">
+        <mxCell id="_iWKkWi0aREAEa-467sO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-1" target="_iWKkWi0aREAEa-467sO-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="1160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="185" y="815" />
+              <mxPoint x="-80" y="815" />
+              <mxPoint x="-80" y="-230" />
+              <mxPoint x="1330" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;flipV=0;flipH=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="-150" y="320" width="670" height="280" as="geometry">
             <mxRectangle x="-24.999999999999986" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="301" y="-246.5" width="192" height="60" as="geometry" />
+          <mxGeometry x="221" y="-166.5" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="452" y="-256.5" width="30" height="25" as="geometry" />
+          <mxGeometry x="372" y="-176.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-5" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="310.5" y="-36.5" width="180" height="80" as="geometry" />
+          <mxGeometry x="230.5" y="43.5" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-1" source="_iWKkWi0aREAEa-467sO-1" target="NwDME-IFeq2rPD6jmmSG-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-1" value="Регистрация на Google Cloud Platform (GCP) - Free Tier" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="304.5" y="-126.50000000000001" width="192" height="60" as="geometry" />
+          <mxGeometry x="224.5" y="-46.500000000000014" width="192" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="464.5" y="-206.5" width="20" height="20" as="geometry" />
+          <mxGeometry x="384.5" y="-126.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="452" y="-136.5" width="30" height="25" as="geometry" />
+          <mxGeometry x="372" y="-56.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=65;exitDy=15;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-1" source="_iWKkWi0aREAEa-467sO-11" target="_iWKkWi0aREAEa-467sO-13">
           <mxGeometry relative="1" as="geometry" />
@@ -40,37 +51,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-11" value="Первичные настройки vps" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="310.5" y="83.75" width="80" height="100" as="geometry" />
+          <mxGeometry x="230.5" y="163.75" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-13" value="ssh-доступ" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="407" y="70.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="327" y="150.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-14" value="ssl-сертификат" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="407" y="173.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="327" y="253.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-15" value="ufw-firewall" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="407" y="293.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="327" y="373.75" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=25;entryDy=0;entryPerimeter=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-1" source="NwDME-IFeq2rPD6jmmSG-5" target="_iWKkWi0aREAEa-467sO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="450.5" y="-36.5" width="30" height="25" as="geometry" />
+          <mxGeometry x="370.5" y="43.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="493" y="63.75" width="30" height="25" as="geometry" />
+          <mxGeometry x="413" y="143.75" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="496.5" y="143.75" width="30" height="25" as="geometry" />
+          <mxGeometry x="416.5" y="223.75" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="503" y="263.75" width="30" height="25" as="geometry" />
+          <mxGeometry x="423" y="343.75" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="YflyUX5L_feNzryWRgsf-1" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="503" y="13.75" width="30" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="_iWKkWi0aREAEa-467sO-23" value="Подключить к vps Cursor через ssh" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="403" y="393.75" width="120" height="80" as="geometry" />
+          <mxGeometry x="423" y="93.75" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="249.995" y="207.365" width="400" height="225.27" as="geometry">
@@ -252,6 +260,23 @@
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-15" target="_iWKkWi0aREAEa-467sO-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-26" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1130.005" y="199.99500000000012" width="400" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-28" value="Connect to vps Cursor throw ssh" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="_iWKkWi0aREAEa-467sO-26">
+          <mxGeometry x="110.005" y="-37.36500000000001" width="175" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="_iWKkWi0aREAEa-467sO-26">
+          <mxGeometry x="240" y="-37.37" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="_iWKkWi0aREAEa-467sO-26">
+          <mxGeometry x="260.01" y="70.13" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-34" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="430" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
