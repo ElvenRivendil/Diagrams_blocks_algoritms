@@ -1,30 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1878" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="876" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_iWKkWi0aREAEa-467sO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-1" target="_iWKkWi0aREAEa-467sO-26">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="1160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="185" y="1160" />
-              <mxPoint x="-80" y="1160" />
-              <mxPoint x="-80" y="-230" />
-              <mxPoint x="1330" y="-230" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="_iWKkWi0aREAEa-467sO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-1" target="_iWKkWi0aREAEa-467sO-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-1" value="Контейнер 1" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;flipV=0;flipH=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="-280" y="450" width="930" height="280" as="geometry">
             <mxRectangle x="-24.999999999999986" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="351" y="-296.5" width="192" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
-          <mxGeometry x="502" y="-306.5" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-5" value="&lt;div&gt;Создание бесплатного VPS&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="360.5" y="-86.5" width="180" height="80" as="geometry" />
@@ -34,9 +20,6 @@
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-1" value="Регистрация на Google Cloud Platform (GCP) - Free Tier" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
           <mxGeometry x="354.5" y="-176.5" width="192" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_iWKkWi0aREAEa-467sO-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
-          <mxGeometry x="514.5" y="-256.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-21" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
           <mxGeometry x="502" y="-186.5" width="30" height="25" as="geometry" />
@@ -90,45 +73,56 @@
           <mxGeometry x="540.5" y="323.75" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="289.99" y="167.37" width="320.01" height="225.27" as="geometry">
+          <mxGeometry x="224.99" y="232.37" width="450.01" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-24" value="Создание канала Slack" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
-          <mxGeometry x="140.005" y="82.63499999999999" width="120" height="52.5" as="geometry" />
+          <mxGeometry x="205.005" y="107.62499999999999" width="120" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-20" value="Создание скрипта по регистрации VPS" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
-          <mxGeometry x="70.005" y="2.634999999999991" width="175" height="65" as="geometry" />
+          <mxGeometry x="134.995" y="27.63499999999999" width="175" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
-          <mxGeometry x="200" y="2.6300000000000026" width="30" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
-          <mxGeometry x="220.01" y="110.13" width="30" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-27" value="установка звукового сигнала при получении сообщения" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
-          <mxGeometry x="130.015" y="162.635" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-24" target="NwDME-IFeq2rPD6jmmSG-27" edge="1">
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-20" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200.005" y="172.635" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_iWKkWi0aREAEa-467sO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.07;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="_iWKkWi0aREAEa-467sO-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="240" as="targetPoint" />
+            <mxPoint x="205.01" y="133.63" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="60" y="-8" />
-              <mxPoint x="60" y="240" />
-              <mxPoint x="169" y="240" />
+              <mxPoint x="179" y="134" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
+          <mxGeometry x="264.99" y="27.630000000000003" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-26" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
+          <mxGeometry x="285" y="135.13" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-27" value="установка звукового сигнала при получении сообщения" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
+          <mxGeometry x="195.005" y="187.635" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="NwDME-IFeq2rPD6jmmSG-6" target="NwDME-IFeq2rPD6jmmSG-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264.995" y="197.635" as="targetPoint" />
+            <mxPoint x="255.01" y="160.63" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="NwDME-IFeq2rPD6jmmSG-6" source="NwDME-IFeq2rPD6jmmSG-2" target="NwDME-IFeq2rPD6jmmSG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-2" value="Регистрация на Oracle Cloud" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
+          <mxGeometry x="134.99" y="-52.370000000000005" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-6" vertex="1">
+          <mxGeometry x="294.99" y="-88.87" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-2" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-6">
+          <mxGeometry x="289.99" y="-52.370000000000005" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NwDME-IFeq2rPD6jmmSG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="NwDME-IFeq2rPD6jmmSG-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NwDME-IFeq2rPD6jmmSG-10" target="_iWKkWi0aREAEa-467sO-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-10" value="Создание VPS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="-40" width="120" height="80" as="geometry" />
@@ -150,16 +144,6 @@
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-14" target="NwDME-IFeq2rPD6jmmSG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NwDME-IFeq2rPD6jmmSG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-2" target="NwDME-IFeq2rPD6jmmSG-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="282" y="167" />
-              <mxPoint x="282" y="203" />
-              <mxPoint x="340" y="203" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-29" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="351.25" y="346.25" width="810.01" height="346.5" as="geometry">
@@ -258,6 +242,9 @@
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-37" vertex="1">
           <mxGeometry x="281.505" y="-59.995000000000005" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_iWKkWi0aREAEa-467sO-52" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
+          <mxGeometry x="236" y="40.01" width="60.01" height="50.01" as="geometry" />
+        </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -271,7 +258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-26" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1130.005" y="199.99500000000012" width="400" height="225.27" as="geometry">
+          <mxGeometry x="529.9950000000001" y="1110.005" width="400" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
