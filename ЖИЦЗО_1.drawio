@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1577" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2797" dy="2629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-1">
           <mxGeometry x="503" y="263.75" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YflyUX5L_feNzryWRgsf-1" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-1" vertex="1">
+          <mxGeometry x="503" y="13.75" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-6" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="249.995" y="207.365" width="400" height="225.27" as="geometry">
@@ -194,9 +197,6 @@
         <mxCell id="YflyUX5L_feNzryWRgsf-2" value="Создание тестового скрипта на Python" style="ellipse;whiteSpace=wrap;html=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="267.49" y="303" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YflyUX5L_feNzryWRgsf-1" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="574.98" y="363" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="332.49" y="293" width="30" height="25" as="geometry" />
         </mxCell>
@@ -221,9 +221,6 @@
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-8" value="Регистрация на Docker Hub" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="442.49" y="433" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MG9vdnyTiC7GRD6fxwUX-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
-          <mxGeometry x="387.49" y="403" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="MG9vdnyTiC7GRD6fxwUX-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="NwDME-IFeq2rPD6jmmSG-29" vertex="1">
           <mxGeometry x="524.98" y="423" width="30" height="25" as="geometry" />
         </mxCell>
@@ -237,6 +234,9 @@
         </mxCell>
         <mxCell id="_iWKkWi0aREAEa-467sO-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="NwDME-IFeq2rPD6jmmSG-37">
           <mxGeometry x="251.505" y="-59.995000000000005" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="MG9vdnyTiC7GRD6fxwUX-9" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="NwDME-IFeq2rPD6jmmSG-37" vertex="1">
+          <mxGeometry x="281.505" y="-59.995000000000005" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NwDME-IFeq2rPD6jmmSG-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NwDME-IFeq2rPD6jmmSG-20" target="NwDME-IFeq2rPD6jmmSG-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
