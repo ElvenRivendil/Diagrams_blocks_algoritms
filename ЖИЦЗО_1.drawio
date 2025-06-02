@@ -419,30 +419,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-14" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="165.02" width="520" height="299.99" as="geometry">
+          <mxGeometry x="1430" y="90" width="520" height="330" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-27" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="145" y="-31.18" width="210" height="336.18" as="geometry" />
+          <mxGeometry x="155" y="37.5" width="210" height="336.18" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-16" value="Настройка ключей доступа чеерз shh" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="155.005" y="-112.36500000000001" width="175" height="65" as="geometry" />
+          <mxGeometry x="165.005" y="-43.68500000000001" width="175" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="305.01" y="-85.00999999999999" width="30" height="25" as="geometry" />
+          <mxGeometry x="315.01" y="-16.32999999999999" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="295" y="14.999999999999993" width="30" height="25" as="geometry" />
+          <mxGeometry x="315.01" y="123.66999999999999" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="145.00499999999988" y="-42.50500000000011" width="30" height="40" as="geometry" />
+          <mxGeometry x="155.00499999999988" y="26.17499999999989" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-20" target="VCovVzGfJwYaB5BmL19w-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-20" value="localhost&amp;nbsp;&lt;br&gt;wsl-server" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="182.50499999999988" y="-2.505000000000109" width="120" height="60" as="geometry" />
+          <mxGeometry x="192.50499999999988" y="66.1749999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-21" target="VCovVzGfJwYaB5BmL19w-22">
           <mxGeometry relative="1" as="geometry" />
@@ -451,19 +451,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-21" value="GhiHub&lt;br&gt;repositoriy" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="175.00499999999988" y="90.27499999999989" width="120" height="60" as="geometry" />
+          <mxGeometry x="185.00499999999988" y="158.9549999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-22" target="VCovVzGfJwYaB5BmL19w-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-22" value="vps instance" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="175.00499999999988" y="184.9949999999999" width="120" height="60" as="geometry" />
+          <mxGeometry x="185.00499999999988" y="253.6749999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="295" y="107.77" width="30" height="25" as="geometry" />
+          <mxGeometry x="315.01" y="176.45" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-30" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="295" y="185" width="30" height="25" as="geometry" />
+          <mxGeometry x="305" y="253.68" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
