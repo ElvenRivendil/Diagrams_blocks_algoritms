@@ -430,7 +430,7 @@
           <mxGeometry x="322.5" y="-29.329999999999984" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="162.4949999999999" y="13.174999999999898" width="30" height="40" as="geometry" />
+          <mxGeometry x="410.0049999999999" y="-49.995000000000104" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-37" value="localhost wls" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="132.5" y="200" width="627.5" height="30" as="geometry" />
