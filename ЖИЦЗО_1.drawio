@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1352" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="1948" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,8 +534,14 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_github_deploy_vps.pub &amp;gt;&amp;gt;&lt;br&gt;authorized_keys&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="80.00000000000006" y="820" width="217.52" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-77" target="VCovVzGfJwYaB5BmL19w-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-77" value="&lt;strong&gt;GitHub Secrets&lt;br&gt;Settings --&amp;gt; Secrets and variables --&amp;gt; Actions&lt;/strong&gt;&lt;br&gt;id_ed25519_github_deploy_vps &amp;gt;&amp;gt;&lt;br&gt;auto_deploy_vestings_rev_01&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="82.53" y="673" width="217.52" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-79" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="193" y="780" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="2620" y="30" width="400" height="335.27" as="geometry">
