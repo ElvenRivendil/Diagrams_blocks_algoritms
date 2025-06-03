@@ -462,7 +462,7 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-44" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="257.48" y="80.00000000000001" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-45" value="---&lt;br&gt;for asisakba" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+        <mxCell id="VCovVzGfJwYaB5BmL19w-45" value="---&lt;br&gt;for asisakba&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="450" y="520" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-48" value="&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
@@ -480,7 +480,7 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-61" target="VCovVzGfJwYaB5BmL19w-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-52" value="---&lt;br&gt;for asisakba" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+        <mxCell id="VCovVzGfJwYaB5BmL19w-52" value="---&lt;br&gt;for asisakba&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="450" y="310" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-53" target="VCovVzGfJwYaB5BmL19w-49">
