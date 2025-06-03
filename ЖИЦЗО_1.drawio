@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="3979" dy="3505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1703" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -453,11 +453,14 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-42" value="github_actions.pub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="147.48000000000002" y="440" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-43" value="id_rsa&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="388.75" y="160" width="110" height="40" as="geometry" />
+        <mxCell id="VCovVzGfJwYaB5BmL19w-43" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="262.48" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-44" target="VCovVzGfJwYaB5BmL19w-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-44" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="388.75" y="43.170000000000016" width="115" height="40" as="geometry" />
+          <mxGeometry x="262.48" y="43.170000000000016" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-45" value="authorized_keys&lt;br&gt;for asisakba" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="450" y="440" width="115" height="40" as="geometry" />
@@ -479,6 +482,15 @@
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-53" value="authorized_keys&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="580" y="230" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-54" value="id_rsa.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="480" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-55" target="VCovVzGfJwYaB5BmL19w-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-55" value="id_rsa.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="480" y="43.170000000000016" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="2139.995" y="69.9950000000001" width="400" height="225.27" as="geometry">
