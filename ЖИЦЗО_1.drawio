@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="2797" dy="2629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1953" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,9 +429,6 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="454.26" y="156.32000000000002" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="933.0049999999999" y="283.0049999999999" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-37" value="localhost wls" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="325.5" y="473" width="627.5" height="30" as="geometry" />
         </mxCell>
@@ -544,7 +541,7 @@
           <mxGeometry x="193" y="780" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="70" width="480" height="335.27" as="geometry">
+          <mxGeometry x="2580" y="70" width="480" height="390.0049999999999" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -571,6 +568,9 @@
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-124" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
           <mxGeometry x="340" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
+          <mxGeometry x="350.0049999999999" y="350.0049999999999" width="30" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
