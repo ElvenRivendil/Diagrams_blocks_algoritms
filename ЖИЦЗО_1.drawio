@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1754" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1352" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,7 +448,7 @@
           <mxGeometry x="350.49" y="673" width="217.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-41" value="vps" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="23" y="833" width="930" height="30" as="geometry" />
+          <mxGeometry x="23" y="880" width="930" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-43" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="450.48" y="396.17" width="110" height="40" as="geometry" />
@@ -460,10 +460,10 @@
           <mxGeometry x="450.48" y="273" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-45" value="root@vs:~/.ssh/&lt;br&gt;for asisakba&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="643" y="773" width="115" height="60" as="geometry" />
+          <mxGeometry x="643" y="820" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-49" value="root@vs:~/.ssh/&lt;br&gt;id_rsa_vps.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="773" y="773" width="115" height="60" as="geometry" />
+          <mxGeometry x="773" y="820" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-51" value="localhost windows" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="325.5" y="206.17000000000002" width="627.5" height="30" as="geometry" />
@@ -508,7 +508,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-64" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_deploy_github&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="347.96000000000004" y="773" width="217.52" height="60" as="geometry" />
+          <mxGeometry x="347.96000000000004" y="820" width="217.52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-66" value="&lt;strong class=&quot;d-block&quot;&gt;WSL2-fx@sf&lt;/strong&gt;&lt;br&gt;authorized_keys.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="360.5" y="593" width="217.52" height="50" as="geometry" />
@@ -531,11 +531,11 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-74" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="464.26" y="743" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;authorized_keys&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="80.00000000000006" y="773" width="217.52" height="60" as="geometry" />
+        <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_github_deploy_vps.pub &amp;gt;&amp;gt;&lt;br&gt;authorized_keys&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="80.00000000000006" y="820" width="217.52" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-77" value="&lt;strong class=&quot;d-block&quot;&gt;VPS_deploy@vestings-rev-01&lt;/strong&gt;&lt;br&gt;id_ed25519_deploy_github.pub&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="82.53000000000003" y="673" width="217.52" height="50" as="geometry" />
+        <mxCell id="VCovVzGfJwYaB5BmL19w-77" value="&lt;strong&gt;GitHub Secrets&lt;br&gt;Settings --&amp;gt; Secrets and variables --&amp;gt; Actions&lt;/strong&gt;&lt;br&gt;id_ed25519_github_deploy_vps &amp;gt;&amp;gt;&lt;br&gt;auto_deploy_vestings_rev_01&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="82.53" y="673" width="217.52" height="97" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="2620" y="30" width="400" height="335.27" as="geometry">
