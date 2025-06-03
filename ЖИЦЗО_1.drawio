@@ -531,7 +531,7 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-74" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="464.26" y="743" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_deploy_github&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+        <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;authorized_keys&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
           <mxGeometry x="80.00000000000006" y="773" width="217.52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-77" value="&lt;strong class=&quot;d-block&quot;&gt;VPS_deploy@vestings-rev-01&lt;/strong&gt;&lt;br&gt;id_ed25519_deploy_github.pub&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
