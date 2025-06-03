@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.1">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1703" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,120 +419,126 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-14" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="90" width="900" height="685" as="geometry">
+          <mxGeometry x="1547" y="-20" width="1040" height="1070" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-16" value="Настройка ключей доступа чеерз shh" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="172.5" y="-56.68" width="557.51" height="65" as="geometry" />
+          <mxGeometry x="365.5" y="136.32" width="557.51" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="261.26" y="-36.679999999999986" width="30" height="25" as="geometry" />
+          <mxGeometry x="454.26" y="156.32000000000002" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="740.0049999999999" y="90.0049999999999" width="30" height="40" as="geometry" />
+          <mxGeometry x="933.0049999999999" y="283.0049999999999" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-37" value="localhost wls" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="132.5" y="280" width="627.5" height="30" as="geometry" />
+          <mxGeometry x="325.5" y="473" width="627.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-36" target="VCovVzGfJwYaB5BmL19w-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-36" value="fx@sf:~/.ssh/&lt;br&gt;authorized_keys&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="157.49" y="310" width="222.51" height="50" as="geometry" />
+          <mxGeometry x="350.49" y="503" width="222.51" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-38" value="GitHub" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="132.51" y="450" width="277.5" height="30" as="geometry" />
+          <mxGeometry x="13" y="643" width="590.01" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-40" value="&lt;strong class=&quot;d-block&quot;&gt;VPS_deploy@vestings-rev-01&lt;/strong&gt;&lt;br&gt;id_ed25519_deploy_github.pub&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="157.48999999999998" y="480" width="217.52" height="50" as="geometry" />
+          <mxGeometry x="350.49" y="673" width="217.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-41" value="vps" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="132.5" y="640" width="627.5" height="30" as="geometry" />
+          <mxGeometry x="23" y="833" width="930" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-43" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="257.48" y="203.17000000000002" width="110" height="40" as="geometry" />
+          <mxGeometry x="450.48" y="396.17" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-44" target="VCovVzGfJwYaB5BmL19w-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-44" value="id_rsa.pub&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="257.48" y="80.00000000000001" width="115" height="40" as="geometry" />
+          <mxGeometry x="450.48" y="273" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-45" value="root@vs:~/.ssh/&lt;br&gt;for asisakba&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="450" y="580" width="115" height="60" as="geometry" />
+          <mxGeometry x="643" y="773" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-49" value="root@vs:~/.ssh/&lt;br&gt;id_rsa_vps.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="580" y="580" width="115" height="60" as="geometry" />
+          <mxGeometry x="773" y="773" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-51" value="localhost windows" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="132.5" y="13.170000000000002" width="627.5" height="30" as="geometry" />
+          <mxGeometry x="325.5" y="206.17000000000002" width="627.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-61" target="VCovVzGfJwYaB5BmL19w-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-52" value="root@sf:~/.ssh/&lt;br&gt;for asisakba&lt;br&gt;for root" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="450" y="310" width="115" height="60" as="geometry" />
+          <mxGeometry x="643" y="503" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-53" target="VCovVzGfJwYaB5BmL19w-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-53" value="root@sf:~/.ssh/&lt;br&gt;id_rsa_vps&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="580" y="310" width="115" height="60" as="geometry" />
+          <mxGeometry x="773" y="503" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-54" value="id_rsa.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="475" y="203.17000000000002" width="110" height="40" as="geometry" />
+          <mxGeometry x="668" y="396.17" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-55" target="VCovVzGfJwYaB5BmL19w-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-55" value="id_rsa.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="475" y="80.00000000000001" width="115" height="40" as="geometry" />
+          <mxGeometry x="668" y="273" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-58" value="PS C:\Users\Sfera-F\.ssh&amp;gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="172.49" y="43.17" width="517.51" height="36.83" as="geometry" />
+          <mxGeometry x="365.49" y="236.17000000000002" width="517.51" height="36.83" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-59" value="root@fs:~#: ./.ssh/" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="172.5" y="243.17000000000002" width="517.51" height="36.83" as="geometry" />
+          <mxGeometry x="365.5" y="436.1700000000001" width="517.51" height="36.83" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-61" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="496.25" y="440" width="22.5" height="20.75" as="geometry" />
+          <mxGeometry x="689.25" y="633" width="22.5" height="20.75" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-52" target="VCovVzGfJwYaB5BmL19w-61">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1908" y="440" as="sourcePoint" />
-            <mxPoint x="1908" y="610" as="targetPoint" />
+            <mxPoint x="2101" y="633" as="sourcePoint" />
+            <mxPoint x="2101" y="803" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="VCovVzGfJwYaB5BmL19w-14" source="VCovVzGfJwYaB5BmL19w-64" target="VCovVzGfJwYaB5BmL19w-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-64" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_deploy_github&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="154.96" y="580" width="217.52" height="60" as="geometry" />
+          <mxGeometry x="347.96000000000004" y="773" width="217.52" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-66" value="&lt;strong class=&quot;d-block&quot;&gt;WSL2-fx@sf&lt;/strong&gt;&lt;br&gt;authorized_keys.pub&lt;br&gt;for fx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="167.49999999999997" y="400" width="217.52" height="50" as="geometry" />
+          <mxGeometry x="360.5" y="593" width="217.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="271.26" y="150.00000000000003" width="30" height="25" as="geometry" />
+          <mxGeometry x="464.26" y="343" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="496.25" y="150.00000000000003" width="30" height="25" as="geometry" />
+          <mxGeometry x="689.25" y="343" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="280" y="360" width="30" height="25" as="geometry" />
+          <mxGeometry x="473" y="553" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-72" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="526.25" y="440" width="30" height="25" as="geometry" />
+          <mxGeometry x="719.25" y="633" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-73" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="650" y="440" width="30" height="25" as="geometry" />
+          <mxGeometry x="843" y="633" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-74" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
-          <mxGeometry x="271.26" y="550" width="30" height="25" as="geometry" />
+          <mxGeometry x="464.26" y="743" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-76" value="deploy@vs:~/.ssh/&lt;br&gt;id_ed25519_deploy_github&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="80.00000000000006" y="773" width="217.52" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-77" value="&lt;strong class=&quot;d-block&quot;&gt;VPS_deploy@vestings-rev-01&lt;/strong&gt;&lt;br&gt;id_ed25519_deploy_github.pub&lt;br&gt;for deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-14">
+          <mxGeometry x="82.53000000000003" y="673" width="217.52" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="2194.99" y="15" width="400" height="335.27" as="geometry">
+          <mxGeometry x="2620" y="30" width="400" height="335.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
