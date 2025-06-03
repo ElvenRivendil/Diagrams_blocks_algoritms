@@ -532,21 +532,21 @@
           <mxGeometry x="271.26" y="550" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-31" value="&lt;div&gt;Контейнер 2&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="2139.995" y="69.9950000000001" width="400" height="225.27" as="geometry">
+          <mxGeometry x="2194.99" y="15" width="400" height="335.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-32" value="dfsdfas" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
-          <mxGeometry x="110.01" y="50" width="169.99" height="80" as="geometry" />
+        <mxCell id="VCovVzGfJwYaB5BmL19w-32" value="Клонирование репозитория с GitHub на vps:&lt;br&gt;deploy@vestings-rev-01:~/Repo/V0.dev_Main_Git_Submodules/backend/Scraper_rev.01_backend_node.js$" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
+          <mxGeometry x="85.02" y="95" width="259.99" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-33" value="Создание тестового проекта на node.js" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
-          <mxGeometry x="110.005" y="-37.36500000000001" width="175" height="65" as="geometry" />
+          <mxGeometry x="85.015" y="17.63499999999999" width="175" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
-          <mxGeometry x="260.01" y="-10.009999999999991" width="30" height="25" as="geometry" />
+          <mxGeometry x="235.01999999999998" y="44.99000000000001" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-35" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="VCovVzGfJwYaB5BmL19w-31">
-          <mxGeometry x="230.01" y="39.989999999999995" width="30" height="25" as="geometry" />
+          <mxGeometry x="205.01999999999998" y="94.99" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
