@@ -616,14 +616,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-9" value="Объединить V0.dev с GitHub и localhost&amp;nbsp;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3430" y="-390" width="170" height="80" as="geometry" />
+          <mxGeometry x="3480" y="-420" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C7IX0FVCG6CYKTSd4DHZ-4" target="C7IX0FVCG6CYKTSd4DHZ-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3340" y="-340" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3350" y="-255" />
-              <mxPoint x="3350" y="-358" />
+              <mxPoint x="3350" y="-380" />
+              <mxPoint x="3450" y="-380" />
+              <mxPoint x="3450" y="-376" />
             </Array>
           </mxGeometry>
         </mxCell>
