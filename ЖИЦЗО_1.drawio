@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.1.4">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="3078" dy="2838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2797" dy="2629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -585,9 +585,6 @@
         <mxCell id="VCovVzGfJwYaB5BmL19w-124" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="VCovVzGfJwYaB5BmL19w-31" vertex="1">
           <mxGeometry x="355" y="275" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="VCovVzGfJwYaB5BmL19w-31" vertex="1">
-          <mxGeometry x="365.0049999999999" y="335.0049999999999" width="30" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-3" value="Цели" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3090" y="-300" width="180" height="150" as="geometry" />
         </mxCell>
@@ -618,8 +615,8 @@
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C7IX0FVCG6CYKTSd4DHZ-9" target="C7IX0FVCG6CYKTSd4DHZ-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3557" y="-50" />
-              <mxPoint x="3155" y="-50" />
+              <mxPoint x="3557" y="-60" />
+              <mxPoint x="3535" y="-60" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -638,7 +635,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-11" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="3090" y="-50" width="130" height="225.27" as="geometry">
+          <mxGeometry x="3470" y="-10" width="130" height="225.27" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -647,6 +644,40 @@
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-11">
           <mxGeometry x="116.505" y="82.645" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="C7IX0FVCG6CYKTSd4DHZ-16" target="C7IX0FVCG6CYKTSd4DHZ-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3780" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3795" y="-30" />
+              <mxPoint x="3831" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-16" value="Изменение цветов фона и шрифта.&lt;br&gt;Изменение фавикона и логотипа сайта." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3700" y="-380" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.625;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="C7IX0FVCG6CYKTSd4DHZ-9" target="C7IX0FVCG6CYKTSd4DHZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3568" y="-440" />
+              <mxPoint x="3772" y="-440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-18" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="3684.99" y="25" width="210.01" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-19" value="Изменение цветов фона и шрифта.&lt;br&gt;Изменение фавикона и логотипа сайта." style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+          <mxGeometry x="22.994999999999994" y="75.005" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
+          <mxGeometry x="180.00499999999988" y="165.00499999999988" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C7IX0FVCG6CYKTSd4DHZ-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+          <mxGeometry x="165.0050000000001" y="54.995000000000005" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
