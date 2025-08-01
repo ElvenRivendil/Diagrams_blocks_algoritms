@@ -695,10 +695,21 @@
           <mxGeometry x="3920.0049999999997" y="163.75499999999988" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JrUnuYRWQq7ug8DCjPyQ-5" value="Подключение регистрации на Mariadb" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4030" y="-380" width="160" height="110" as="geometry" />
+          <mxGeometry x="3975" y="-390" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JrUnuYRWQq7ug8DCjPyQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrUnuYRWQq7ug8DCjPyQ-1" target="JrUnuYRWQq7ug8DCjPyQ-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-10" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="163.75" width="487.51" height="232.5" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-12" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JrUnuYRWQq7ug8DCjPyQ-10">
+          <mxGeometry x="161.995" y="-62.995000000000005" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JrUnuYRWQq7ug8DCjPyQ-10">
+          <mxGeometry x="313.5100000000002" y="-87.99000000000001" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
