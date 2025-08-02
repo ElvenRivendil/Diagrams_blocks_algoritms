@@ -762,6 +762,15 @@
         <mxCell id="QyLxTPhyVPFhsHQrqW9H-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyLxTPhyVPFhsHQrqW9H-15" target="QyLxTPhyVPFhsHQrqW9H-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="QyLxTPhyVPFhsHQrqW9H-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="QyLxTPhyVPFhsHQrqW9H-15" target="QyLxTPhyVPFhsHQrqW9H-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4160" y="-260" />
+              <mxPoint x="4160" y="-30" />
+              <mxPoint x="4277" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QyLxTPhyVPFhsHQrqW9H-15" value="Проект на wsl2 localhos" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="4258.76" y="-300" width="120" height="80" as="geometry" />
         </mxCell>
@@ -795,6 +804,17 @@
             <mxPoint x="4290" y="-220" as="sourcePoint" />
             <mxPoint x="4340" y="-270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QyLxTPhyVPFhsHQrqW9H-27" value="&lt;div&gt;Контейнер 4&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="4008.14" y="250.62" width="651.24" height="225.27" as="geometry">
+            <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QyLxTPhyVPFhsHQrqW9H-28" value="Создание структуры проекта." style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="QyLxTPhyVPFhsHQrqW9H-27">
+          <mxGeometry x="230.005" y="-155.995" width="192" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QyLxTPhyVPFhsHQrqW9H-29" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="QyLxTPhyVPFhsHQrqW9H-27">
+          <mxGeometry x="377.505" y="-178.35500000000002" width="30" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
