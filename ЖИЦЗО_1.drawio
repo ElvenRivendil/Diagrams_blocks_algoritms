@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="28.0.7">
   <diagram name="Страница — 1" id="y9uAkK9SQgBjB_mhI2ea">
-    <mxGraphModel dx="1754" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="1731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-6" value="Созданы ветки: master, main, develpment, about_us&lt;br&gt;&lt;br&gt;все деплоится на Vercel.com" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-6" value="Созданы ветки: master, main, develpment, about_us&lt;br&gt;&lt;br&gt;все деплоится на Vercel.com" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="3722" y="360" width="148" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="VCovVzGfJwYaB5BmL19w-1" target="VCovVzGfJwYaB5BmL19w-14" edge="1">
@@ -673,43 +673,46 @@
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="C7IX0FVCG6CYKTSd4DHZ-18" source="C7IX0FVCG6CYKTSd4DHZ-19" target="JrUnuYRWQq7ug8DCjPyQ-1">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="C7IX0FVCG6CYKTSd4DHZ-18" source="C7IX0FVCG6CYKTSd4DHZ-19" target="JrUnuYRWQq7ug8DCjPyQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C7IX0FVCG6CYKTSd4DHZ-19" value="Изменение цветов фона и шрифта.&lt;br&gt;Изменение фавикона и логотипа сайта." style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
           <mxGeometry x="161.995" y="-62.995000000000005" width="192" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-1" value="Создана отдельная ветка на GitHub: new_desine_from_V0.dev" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-1" value="Создана отдельная ветка на GitHub: new_desine_from_V0.dev" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
           <mxGeometry x="146.51" y="86.5" width="202.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
           <mxGeometry x="319.0100000000002" y="76.5" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
           <mxGeometry x="313.5100000000002" y="-87.99000000000001" width="30" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="C7IX0FVCG6CYKTSd4DHZ-18">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="C7IX0FVCG6CYKTSd4DHZ-18" vertex="1">
           <mxGeometry x="273.7600000000002" y="186.25" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="VCovVzGfJwYaB5BmL19w-5" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=img/clipart/Gear_128x128.png" parent="1" vertex="1">
           <mxGeometry x="3920.0049999999997" y="163.75499999999988" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-5" value="Подключение регистрации на Mariadb" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-5" value="Подключение регистрации на Mariadb" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3975" y="-390" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrUnuYRWQq7ug8DCjPyQ-1" target="JrUnuYRWQq7ug8DCjPyQ-6">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JrUnuYRWQq7ug8DCjPyQ-1" target="JrUnuYRWQq7ug8DCjPyQ-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-10" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-10" value="&lt;div&gt;Контейнер 3&lt;/div&gt;" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
           <mxGeometry x="3820" y="163.75" width="487.51" height="232.5" as="geometry">
             <mxRectangle x="207.63" y="435" width="670" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-12" value="&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JrUnuYRWQq7ug8DCjPyQ-10">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-12" value="&lt;div&gt;Создание базы данных на WSL2&lt;/div&gt;&lt;div&gt;10.6.22-MariaDB&lt;/div&gt;" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="JrUnuYRWQq7ug8DCjPyQ-10" vertex="1">
           <mxGeometry x="161.995" y="-62.995000000000005" width="192" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" vertex="1" parent="JrUnuYRWQq7ug8DCjPyQ-10">
+        <mxCell id="JrUnuYRWQq7ug8DCjPyQ-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick" parent="JrUnuYRWQq7ug8DCjPyQ-10" vertex="1">
           <mxGeometry x="313.5100000000002" y="-87.99000000000001" width="30" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QyLxTPhyVPFhsHQrqW9H-1" value="Сброс паролей и запуск сервера Mariadb" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="JrUnuYRWQq7ug8DCjPyQ-10">
+          <mxGeometry x="193.51000000000022" y="36.25" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
